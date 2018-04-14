@@ -2,8 +2,8 @@
 알고리즘 스터디 김민준
 
 [001]
-    1. Simple Array Sum 
-        Site URL - https://www.hackerrank.com/challenges/simple-array-sum/problem
+> 1. Simple Array Sum 
+>      Site URL - https://www.hackerrank.com/challenges/simple-array-sum/problem
         Lang     - javascript (node)
     2. Compare the Triplets
         Site URL - https://www.hackerrank.com/challenges/compare-the-triplets/problem
