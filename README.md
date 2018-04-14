@@ -1,7 +1,7 @@
 # algorithm_supremejoon
 알고리즘 스터디 김민준
 
-[001]
+[001] <br/><br/>
 >    1. Simple Array Sum <br/>
         Site URL - https://www.hackerrank.com/challenges/simple-array-sum/problem <br/>
         Lang     - javascript (node) <br/>
@@ -9,54 +9,54 @@
         Site URL - https://www.hackerrank.com/challenges/compare-the-triplets/problem <br/>
         Lang     - javascript (node) <br/>
     3. Birthday Cake Candles <br/>
-        Site URL - https://www.hackerrank.com/challenges/birthday-cake-candles/problem
-        Lang     - javascript (node)
-    4. Time Conversion 
-        Site URL - https://www.hackerrank.com/challenges/time-conversion/problem
-        Lang     - javascript(node)
-[002]
->    1. Diagonal Difference
-        Site URL - https://www.hackerrank.com/challenges/diagonal-difference/problem
-        Lang     - javascript(node)
-    2. Mini-Max Sum
-        Site URL - https://www.hackerrank.com/challenges/mini-max-sum/problem
-        Lang     - javascript(node)
-    3. FESTIVAL (X)
-        Site URL - https://algospot.com/judge/problem/read/FESTIVAL
-        Lang     - 
-[003]
->    1. Apple and Orange
-        Site URL - https://www.hackerrank.com/challenges/apple-and-orange/problem
-        Lang     - java 8
-    2. Kangaroo
-        Site URL - https://www.hackerrank.com/challenges/kangaroo/problem
-        Lang     - C#
-    3.  Between Two Sets (X)
-        Site URL - https://www.hackerrank.com/challenges/between-two-sets/problem
-        Lang     - 
-    4. Forming a Magic Square (X)
-        Site URL - https://www.hackerrank.com/challenges/magic-square-forming/problem
-        Lang     - 
-[004]
->    1. Divisible Sum Pairs
-        Site URL - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
-        Lang     - java 8
-    2. Service Lane
-        Site URL - https://www.hackerrank.com/challenges/service-lane/problem
-        Lang     - javascript(node)
-    3. Bon Appétit
-        Site URL - https://www.hackerrank.com/challenges/bon-appetit/problem
-        Lang     - C#
-    4. Migratory Birds
-        Site URL - https://www.hackerrank.com/challenges/migratory-birds/problem
-        Lang     - javacsript(node)
-[005]
->    1. BOGGLE (X)
-        Site URL - https://algospot.com/judge/problem/read/BOGGLE
-        Lang     - 
-    2. Designer PDF Viewer
-        Site URL - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
-        Lang     - javascript(node)
-    3. Counting Valleys
-        Site URL - https://www.hackerrank.com/challenges/counting-valleys/problem
-        Lang     - javascript(node)
+        Site URL - https://www.hackerrank.com/challenges/birthday-cake-candles/problem <br/>
+        Lang     - javascript (node) <br/>
+    4. Time Conversion <br/>
+        Site URL - https://www.hackerrank.com/challenges/time-conversion/problem <br/>
+        Lang     - javascript(node) <br/>
+[002] <br/><br/>
+>    1. Diagonal Difference <br/>
+        Site URL - https://www.hackerrank.com/challenges/diagonal-difference/problem <br/>
+        Lang     - javascript(node) <br/>
+    2. Mini-Max Sum <br/> 
+        Site URL - https://www.hackerrank.com/challenges/mini-max-sum/problem <br/>
+        Lang     - javascript(node) <br/>
+    3. FESTIVAL (X) <br/>
+        Site URL - https://algospot.com/judge/problem/read/FESTIVAL <br/>
+        Lang     - <br/> 
+[003] <br/><br/>
+>    1. Apple and Orange <br/>
+        Site URL - https://www.hackerrank.com/challenges/apple-and-orange/problem <br/>
+        Lang     - java 8 <br/>
+    2. Kangaroo <br/>
+        Site URL - https://www.hackerrank.com/challenges/kangaroo/problem <br/>
+        Lang     - C# <br/>
+    3.  Between Two Sets (X) <br/>
+        Site URL - https://www.hackerrank.com/challenges/between-two-sets/problem <br/>
+        Lang     - <br/>
+    4. Forming a Magic Square (X) <br/>
+        Site URL - https://www.hackerrank.com/challenges/magic-square-forming/problem <br/>
+        Lang     - <br/>
+[004] <br/><br/>
+>    1. Divisible Sum Pairs <br/>
+        Site URL - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem <br/>
+        Lang     - java 8 <br/>
+    2. Service Lane <br/>
+        Site URL - https://www.hackerrank.com/challenges/service-lane/problem <br/>
+        Lang     - javascript(node) <br/>
+    3. Bon Appétit <br/>
+        Site URL - https://www.hackerrank.com/challenges/bon-appetit/problem <br/>
+        Lang     - C# <br/>
+    4. Migratory Birds <br/>
+        Site URL - https://www.hackerrank.com/challenges/migratory-birds/problem <br/>
+        Lang     - javacsript(node) <br/>
+[005] <br/><br/>
+>    1. BOGGLE (X) <br/>
+        Site URL - https://algospot.com/judge/problem/read/BOGGLE <br/>
+        Lang     - <br/> 
+    2. Designer PDF Viewer <br/>
+        Site URL - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem <br/>
+        Lang     - javascript(node) <br/>
+    3. Counting Valleys <br/>
+        Site URL - https://www.hackerrank.com/challenges/counting-valleys/problem <br/>
+        Lang     - javascript(node) <br/>
