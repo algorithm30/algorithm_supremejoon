@@ -1,7 +1,8 @@
 # algorithm_supremejoon
 알고리즘 스터디 김민준
-
-[001] <br/><br/>
+<br/><br/>
+[001] 
+<br/><br/>
     1. Simple Array Sum <br/>
         Site URL - https://www.hackerrank.com/challenges/simple-array-sum/problem <br/>
         Lang     - javascript (node) <br/>
@@ -14,7 +15,9 @@
     4. Time Conversion <br/>
         Site URL - https://www.hackerrank.com/challenges/time-conversion/problem <br/>
         Lang     - javascript(node) <br/>
-[002] <br/><br/>
+<br/><br/>
+[002] 
+<br/><br/>
     1. Diagonal Difference <br/>
         Site URL - https://www.hackerrank.com/challenges/diagonal-difference/problem <br/>
         Lang     - javascript(node) <br/>
@@ -24,7 +27,9 @@
     3. FESTIVAL (X) <br/>
         Site URL - https://algospot.com/judge/problem/read/FESTIVAL <br/>
         Lang     - <br/> 
-[003] <br/><br/>
+<br/><br/>
+[003] 
+<br/><br/>
     1. Apple and Orange <br/>
         Site URL - https://www.hackerrank.com/challenges/apple-and-orange/problem <br/>
         Lang     - java 8 <br/>
@@ -37,7 +42,9 @@
     4. Forming a Magic Square (X) <br/>
         Site URL - https://www.hackerrank.com/challenges/magic-square-forming/problem <br/>
         Lang     - <br/>
-[004] <br/><br/>
+<br/><br/>
+[004] 
+<br/><br/>
     1. Divisible Sum Pairs <br/>
         Site URL - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem <br/>
         Lang     - java 8 <br/>
@@ -50,7 +57,9 @@
     4. Migratory Birds <br/>
         Site URL - https://www.hackerrank.com/challenges/migratory-birds/problem <br/>
         Lang     - javacsript(node) <br/>
-[005] <br/><br/>
+<br/><br/>
+[005]
+<br/><br/>
     1. BOGGLE (X) <br/>
         Site URL - https://algospot.com/judge/problem/read/BOGGLE <br/>
         Lang     - <br/> 
