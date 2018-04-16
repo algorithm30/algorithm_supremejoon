@@ -69,3 +69,17 @@
     3. Counting Valleys <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/counting-valleys/problem <br/>
         Lang     - javascript(node) <br/><br/>
+<br/><br/>
+[006]
+<br/><br/>
+    1. Cavity Map (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/cavity-map/problem <br/>
+        Lang     - <br/><br/>
+    2. PICNIC (X)  <br/><br/>
+        Site URL - https://algospot.com/judge/problem/read/PICNIC <br/>
+        Lang     - <br/><br/>
+    3. BOARDCOVER (X)  <br/><br/>
+        Site URL - https://algospot.com/judge/problem/read/BOARDCOVER <br/>
+        Lang     - <br/><br/>
+        
+        
