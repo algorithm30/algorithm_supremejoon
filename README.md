@@ -74,7 +74,7 @@
 <br/><br/>
     1. Cavity Map <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/cavity-map/problem <br/>
-        Lang     - javascript(node<br/><br/>
+        Lang     - javascript(node) <br/><br/>
     2. PICNIC (X)  <br/><br/>
         Site URL - https://algospot.com/judge/problem/read/PICNIC <br/>
         Lang     - <br/><br/>
