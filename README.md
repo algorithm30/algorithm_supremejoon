@@ -84,7 +84,7 @@
 <br/><br/>
 [007]
 <br/><br/>
-    1. 알약 (X) <br/><br/>
+    1. 알약 (X) <br/><br/>
         Site URL - https://www.acmicpc.net/problem/4811 <br/>
         Lang     - <br/><br/>
     2. 피이보나치 트리 (X)  <br/><br/>
@@ -93,7 +93,7 @@
 <br/><br/>
 [008]
 <br/><br/>
-    1. Picking Numbers (X) <br/><br/>
+    1. Picking Numbers (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/picking-numbers/problem <br/>
         Lang     - <br/><br/>
     2. Chocolate Feast (X)  <br/><br/>
