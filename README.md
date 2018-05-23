@@ -102,5 +102,17 @@
     3. 쿼드 트리 뒤집기 (X)  <br/><br/>
         Site URL - https://algospot.com/judge/problem/read/QUADTREE <br/>
         Lang     - <br/><br/>
+<br/><br/>
+[009]
+<br/><br/>
+    1. The Power Sum (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/the-power-sum/problem <br/>
+        Lang     - <br/><br/>
+    2. Append and Delete (X)  <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/append-and-delete/problem <br/>
+        Lang     - <br/><br/>
+    3. 울타리 잘라내기 (X)  <br/><br/>
+        Site URL - https://algospot.com/judge/problem/read/FENCE <br/>
+        Lang     - <br/><br/>
         
         
