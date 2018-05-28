@@ -115,4 +115,18 @@
         Site URL - https://algospot.com/judge/problem/read/FENCE <br/>
         Lang     - <br/><br/>
         
+<br/><br/>
+[010]
+<br/><br/>
+    1. Strange Counter (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/strange-code/problem <br/>
+        Lang     - <br/><br/>
+    2. Minimum Distances (X)  <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/minimum-distances/problem <br/>
+        Lang     - <br/><br/>
+    3. 팬미팅 (X)  <br/><br/>
+        Site URL - https://algospot.com/judge/problem/read/FANMEETING <br/>
+        Lang     - <br/><br/>
+        
+        
         
