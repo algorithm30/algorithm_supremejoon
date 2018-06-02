@@ -81,5 +81,52 @@
     3. BOARDCOVER (X)  <br/><br/>
         Site URL - https://algospot.com/judge/problem/read/BOARDCOVER <br/>
         Lang     - <br/><br/>
+<br/><br/>
+[007]
+<br/><br/>
+    1. 알약 (X) <br/><br/>
+        Site URL - https://www.acmicpc.net/problem/4811 <br/>
+        Lang     - <br/><br/>
+    2. 피이보나치 트리 (X)  <br/><br/>
+        Site URL - https://www.acmicpc.net/problem/1646 <br/>
+        Lang     - <br/><br/>
+<br/><br/>
+[008]
+<br/><br/>
+    1. Picking Numbers (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/picking-numbers/problem <br/>
+        Lang     - <br/><br/>
+    2. Chocolate Feast (X)  <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/chocolate-feast/problem <br/>
+        Lang     - <br/><br/>
+    3. 쿼드 트리 뒤집기 (X)  <br/><br/>
+        Site URL - https://algospot.com/judge/problem/read/QUADTREE <br/>
+        Lang     - <br/><br/>
+<br/><br/>
+[009]
+<br/><br/>
+    1. The Power Sum (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/the-power-sum/problem <br/>
+        Lang     - <br/><br/>
+    2. Append and Delete (X)  <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/append-and-delete/problem <br/>
+        Lang     - <br/><br/>
+    3. 울타리 잘라내기 (X)  <br/><br/>
+        Site URL - https://algospot.com/judge/problem/read/FENCE <br/>
+        Lang     - <br/><br/>
+        
+<br/><br/>
+[010]
+<br/><br/>
+    1. Strange Counter (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/strange-code/problem <br/>
+        Lang     - <br/><br/>
+    2. Minimum Distances (X)  <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/minimum-distances/problem <br/>
+        Lang     - <br/><br/>
+    3. 팬미팅 (X)  <br/><br/>
+        Site URL - https://algospot.com/judge/problem/read/FANMEETING <br/>
+        Lang     - <br/><br/>
+        
         
         
