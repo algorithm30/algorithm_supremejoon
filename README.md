@@ -93,9 +93,9 @@
 <br/><br/>
 [008]
 <br/><br/>
-    1. Picking Numbers (X) <br/><br/>
+    1. Picking Numbers <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/picking-numbers/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - C# <br/><br/>
     2. Chocolate Feast <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/chocolate-feast/problem <br/>
         Lang     - javascript(node) <br/><br/>
