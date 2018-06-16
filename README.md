@@ -131,23 +131,23 @@
 <br/><br/>
 [011]
 <br/><br/>
-    1. Lisa's Workbook (X) <br/><br/>
+    1. Lisa's Workbook <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/lisa-workbook/problem <br/>
-        Lang     - <br/><br/>
-    2. Beautiful Triplets (X) <br/><br/>
+        Lang     - C# <br/><br/>
+    2. Beautiful Triplets <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/beautiful-triplets/problem <br/>
-        Lang     - <br/><br/>
-    3. Angry Professor (X) <br/><br/>
+        Lang     - C# <br/><br/>
+    3. Angry Professor <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/angry-professor/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - C# <br/><br/>
         
         
 <br/><br/>
 [012]
 <br/><br/>
-    1. Extra Long Factorials (X) <br/><br/>
+    1. Extra Long Factorials <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/extra-long-factorials/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - C# <br/><br/>
     2. Manasa and Stones (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/manasa-and-stones/problem <br/>
         Lang     - <br/><br/>
