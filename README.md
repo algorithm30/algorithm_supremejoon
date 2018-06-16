@@ -142,5 +142,15 @@
         Lang     - <br/><br/>
         
         
+<br/><br/>
+[012]
+<br/><br/>
+    1. Extra Long Factorials (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/extra-long-factorials/problem <br/>
+        Lang     - <br/><br/>
+    2. Manasa and Stones (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/manasa-and-stones/problem <br/>
+        Lang     - <br/><br/>
+        
         
         
