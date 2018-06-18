@@ -148,8 +148,24 @@
     1. Extra Long Factorials <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/extra-long-factorials/problem <br/>
         Lang     - C# <br/><br/>
-    2. Manasa and Stones (X) <br/><br/>
+    2. Manasa and Stones <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/manasa-and-stones/problem <br/>
+        Lang     - C# <br/><br/>
+        
+<br/><br/>
+[013]
+<br/><br/>
+    1. Save the Prisoner (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/save-the-prisoner/problem <br/>
+        Lang     - <br/><br/>
+    2. Stock Maximize (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/stockmax/problem <br/>
+        Lang     - <br/><br/>
+    3. Strong Password (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/strong-password/problem <br/>
+        Lang     - <br/><br/>
+    4. Nimble Game (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/nimble-game-1/problem <br/>
         Lang     - <br/><br/>
         
         
