@@ -170,3 +170,16 @@
         
         
         
+<br/><br/>
+[014]
+<br/><br/>
+    1. Weighted Uniform Strings (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/weighted-uniform-string/problem <br/>
+        Lang     - <br/><br/>
+    2. Fibonacci Modified (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/fibonacci-modified/problem <br/>
+        Lang     - <br/><br/>
+    3. Encryption (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/encryption/problem <br/>
+        Lang     - <br/><br/>
+        
