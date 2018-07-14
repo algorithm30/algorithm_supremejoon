@@ -183,3 +183,27 @@
         Site URL - https://www.hackerrank.com/challenges/encryption/problem <br/>
         Lang     - <br/><br/>
         
+        
+<br/><br/>
+[015]
+<br/><br/>
+    1. The Time in Words (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/the-time-in-words/problem <br/>
+        Lang     - <br/><br/>
+    2. Game of Thrones - I (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/game-of-thrones/problem <br/>
+        Lang     - <br/><br/>
+        
+        
+<br/><br/>
+[016]
+<br/><br/>
+    1. Maximizing XOR (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/maximizing-xor/problem <br/>
+        Lang     - <br/><br/>
+    2. Bigger is Greater (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/bigger-is-greater/problem <br/>
+        Lang     - <br/><br/>
+
+
+        
