@@ -219,3 +219,18 @@
 
 
         
+<br/><br/>
+[018]
+<br/><br/>
+    1. Jumping on the Clouds (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem <br/>
+        Lang     - <br/><br/>
+    2. Cats and a Mouse (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem <br/>
+        Lang     - <br/><br/>
+    3. HackerRank in a String! (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem <br/>
+        Lang     - <br/><br/>
+
+
+        
