@@ -232,5 +232,18 @@
         Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem <br/>
         Lang     - <br/><br/>
 
+  
+<br/><br/>
+[019]
+<br/><br/>
+    1. Sock Merchant (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/sock-merchant/problem <br/>
+        Lang     - <br/><br/>
+    2. The Bomberman	 (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/bomber-man/problem <br/>
+        Lang     - <br/><br/>
+    3. 3D Surface Area (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/3d-surface-area/problem <br/>
+        Lang     - <br/><br/>
 
         
