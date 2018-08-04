@@ -210,35 +210,35 @@
 <br/><br/>
 [017]
 <br/><br/>
-    1. Utopian Tree (X) <br/><br/>
+    1. Utopian Tree  <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/utopian-tree/problem <br/>
-        Lang     - <br/><br/>
-    2. Circular Array Rotation (X) <br/><br/>
+        Lang     - C# <br/><br/>
+    2. Circular Array Rotation  <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/circular-array-rotation/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - C# <br/><br/>
 
 
         
 <br/><br/>
 [018]
 <br/><br/>
-    1. Jumping on the Clouds (X) <br/><br/>
+    1. Jumping on the Clouds <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem <br/>
-        Lang     - <br/><br/>
-    2. Cats and a Mouse (X) <br/><br/>
+        Lang     - C# <br/><br/>
+    2. Cats and a Mouse <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem <br/>
-        Lang     - <br/><br/>
-    3. HackerRank in a String! (X) <br/><br/>
+        Lang     - C# <br/><br/>
+    3. HackerRank in a String! <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - C# <br/><br/>
 
   
 <br/><br/>
 [019]
 <br/><br/>
-    1. Sock Merchant (X) <br/><br/>
+    1. Sock Merchant <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/sock-merchant/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - C# <br/><br/>
     2. The Bomberman	 (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/bomber-man/problem <br/>
         Lang     - <br/><br/>
