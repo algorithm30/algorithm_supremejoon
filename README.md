@@ -36,7 +36,7 @@
     2. Kangaroo <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/kangaroo/problem <br/>
         Lang     - C# <br/><br/>
-    3.  Between Two Sets (X) <br/><br/>
+    3.  <font color=red>Between Two Sets (X) </font> <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/between-two-sets/problem <br/>
         Lang     - <br/><br/>
     4. Forming a Magic Square (X) <br/><br/>
@@ -155,15 +155,15 @@
 <br/><br/>
 [013]
 <br/><br/>
-    1. Save the Prisoner (X) <br/><br/>
+    1. Save the Prisoner <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/save-the-prisoner/problem <br/>
-        Lang     - <br/><br/>
-    2. Stock Maximize (X) <br/><br/>
+        Lang     - C# <br/><br/>
+    2. Stock Maximize <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/stockmax/problem <br/>
-        Lang     - <br/><br/>
-    3. Strong Password (X) <br/><br/>
+        Lang     - C# <br/><br/>
+    3. Strong Password <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/strong-password/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - C# <br/><br/>
     4. Nimble Game (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/nimble-game-1/problem <br/>
         Lang     - <br/><br/>
@@ -173,23 +173,23 @@
 <br/><br/>
 [014]
 <br/><br/>
-    1. Weighted Uniform Strings (X) <br/><br/>
+    1. Weighted Uniform Strings <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/weighted-uniform-string/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - javascript(node) <br/><br/>
     2. Fibonacci Modified (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/fibonacci-modified/problem <br/>
         Lang     - <br/><br/>
-    3. Encryption (X) <br/><br/>
+    3. Encryption <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/encryption/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - javascript(node) <br/><br/>
         
         
 <br/><br/>
 [015]
 <br/><br/>
-    1. The Time in Words (X) <br/><br/>
+    1. The Time in Words <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/the-time-in-words/problem <br/>
-        Lang     - <br/><br/>
+        Lang     - java 8 <br/><br/>
     2. Game of Thrones - I (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/game-of-thrones/problem <br/>
         Lang     - <br/><br/>
@@ -205,5 +205,45 @@
         Site URL - https://www.hackerrank.com/challenges/bigger-is-greater/problem <br/>
         Lang     - <br/><br/>
 
+
+        
+<br/><br/>
+[017]
+<br/><br/>
+    1. Utopian Tree (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/utopian-tree/problem <br/>
+        Lang     - <br/><br/>
+    2. Circular Array Rotation (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/circular-array-rotation/problem <br/>
+        Lang     - <br/><br/>
+
+
+        
+<br/><br/>
+[018]
+<br/><br/>
+    1. Jumping on the Clouds (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem <br/>
+        Lang     - <br/><br/>
+    2. Cats and a Mouse (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem <br/>
+        Lang     - <br/><br/>
+    3. HackerRank in a String! (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem <br/>
+        Lang     - <br/><br/>
+
+  
+<br/><br/>
+[019]
+<br/><br/>
+    1. Sock Merchant (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/sock-merchant/problem <br/>
+        Lang     - <br/><br/>
+    2. The Bomberman	 (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/bomber-man/problem <br/>
+        Lang     - <br/><br/>
+    3. 3D Surface Area (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/3d-surface-area/problem <br/>
+        Lang     - <br/><br/>
 
         
