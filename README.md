@@ -239,11 +239,25 @@
     1. Sock Merchant <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/sock-merchant/problem <br/>
         Lang     - C# <br/><br/>
-    2. The Bomberman	 (X) <br/><br/>
+    2. The Bomberman (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/bomber-man/problem <br/>
         Lang     - <br/><br/>
     3. 3D Surface Area (X) <br/><br/>
         Site URL - https://www.hackerrank.com/challenges/3d-surface-area/problem <br/>
+        Lang     - <br/><br/>
+
+  
+<br/><br/>
+[020]
+<br/><br/>
+    1. Maximum Palindromes (X)	 <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/maximum-palindromes/problem <br/>
+        Lang     - <br/><br/>
+    2. Sherlock and Anagrams (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem <br/>
+        Lang     - <br/><br/>
+    3. Beautiful Days at the Movie (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem <br/>
         Lang     - <br/><br/>
 
         
