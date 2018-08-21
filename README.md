@@ -261,3 +261,32 @@
         Lang     - <br/><br/>
 
         
+<br/><br/>
+[021]
+<br/><br/>
+    1. The Hurdle Race (X)	 <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/the-hurdle-race/problem <br/>
+        Lang     - <br/><br/>
+    2. Organizing Containers of Balls (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem <br/>
+        Lang     - <br/><br/>
+    3. Almost Sorted (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/almost-sorted/problem <br/>
+        Lang     - <br/><br/>
+    4. Jumping on the Clouds (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem <br/>
+        Lang     - <br/><br/>
+        
+<br/><br/>
+[022]
+<br/><br/>
+    1. Viral Advertising (X)	 <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/strange-advertising/problem <br/>
+        Lang     - <br/><br/>
+    2. Absolute Permutation (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/absolute-permutation/problem <br/>
+        Lang     - <br/><br/>
+    3. CamelCase (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/camelcase/problem <br/>
+        Lang     - <br/><br/>
+        
