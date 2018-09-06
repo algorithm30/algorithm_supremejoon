@@ -5,7 +5,7 @@
 
 
 
-| number | Title | Lang | URL |
+| Number | Title | Lang | URL |
 | ------ | ------ |------ |------ |
 | 01-1 | Simple Array Sum | js(node) | https://www.hackerrank.com/challenges/simple-array-sum/problem |
 | 01-2 | Compare the Triplets | js(node) | https://www.hackerrank.com/challenges/compare-the-triplets/problem |
