@@ -290,3 +290,31 @@
         Site URL - https://www.hackerrank.com/challenges/camelcase/problem <br/>
         Lang     - <br/><br/>
         
+
+<br/><br/>
+[023]
+<br/><br/>
+    1. Sherlock and Squares	(X)	 <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/sherlock-and-squares/problem <br/>
+        Lang     - <br/><br/>
+    2. Non-Divisible Subset (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/non-divisible-subset/problem <br/>
+        Lang     - <br/><br/>
+    3. Cut the sticks (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/cut-the-sticks/problem <br/>
+        Lang     - <br/><br/>
+        
+
+<br/><br/>
+[024]
+<br/><br/>
+    1. Find Digits	(X)	 <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/find-digits/problem <br/>
+        Lang     - <br/><br/>
+    2. Modified Kaprekar Numbers	 (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/kaprekar-numbers/problem <br/>
+        Lang     - <br/><br/>
+    3. The Full Counting Sort (X) <br/><br/>
+        Site URL - https://www.hackerrank.com/challenges/countingsort4/problem <br/>
+        Lang     - <br/><br/>
+        
