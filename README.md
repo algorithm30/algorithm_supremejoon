@@ -79,7 +79,9 @@
 | 24-1 | Find Digits | | https://www.hackerrank.com/challenges/find-digits/problem |
 | 24-2 | Modified Kaprekar Numbers | | https://www.hackerrank.com/challenges/kaprekar-numbers/problem |
 | 24-3 | The Full Counting Sort | | https://www.hackerrank.com/challenges/countingsort4/problem |
-
+| 25-1 | Repeated String | | https://www.hackerrank.com/challenges/repeated-string/problem |
+| 25-2 | Insertion Sort - Part 1 | | https://www.hackerrank.com/challenges/insertionsort1/problem |
+| 25-3 | Larry's Array | | https://www.hackerrank.com/challenges/larrys-array/problem |
 
 
 
