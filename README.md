@@ -66,20 +66,20 @@
 | 20-1 | Maximum Palindromes  | | https://www.hackerrank.com/challenges/maximum-palindromes/problem |
 | 20-2 | Sherlock and Anagrams  | | https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem |
 | 20-3 | Beautiful Days at the Movie  | | https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem |
-| 21-1 | The Hurdle Race  | | https://www.hackerrank.com/challenges/the-hurdle-race/problem |
+| 21-1 | The Hurdle Race  | C# | https://www.hackerrank.com/challenges/the-hurdle-race/problem |
 | 21-2 | Organizing Containers of Balls  | | https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem |
-| 21-3 | Almost Sorted  | | https://www.hackerrank.com/challenges/almost-sorted/problem |
-| 21-4 | Jumping on the Clouds  | | https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem |
-| 22-1 | Viral Advertising   | | https://www.hackerrank.com/challenges/strange-advertising/problem |
+| 21-3 | Almost Sorted  | C# | https://www.hackerrank.com/challenges/almost-sorted/problem |
+| 21-4 | Jumping on the Clouds  | js(node) | https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem |
+| 22-1 | Viral Advertising   | java8 | https://www.hackerrank.com/challenges/strange-advertising/problem |
 | 22-2 | Absolute Permutation   | | https://www.hackerrank.com/challenges/absolute-permutation/problem |
-| 22-3 | CamelCase   | | https://www.hackerrank.com/challenges/camelcase/problem |
+| 22-3 | CamelCase   | js(node) | https://www.hackerrank.com/challenges/camelcase/problem |
 | 23-1 | Sherlock and Squares   | | https://www.hackerrank.com/challenges/sherlock-and-squares/problem |
 | 23-2 | Non-Divisible Subset   | | https://www.hackerrank.com/challenges/non-divisible-subset/problem |
-| 23-3 | Cut the sticks   | | https://www.hackerrank.com/challenges/cut-the-sticks/problem |
-| 24-1 | Find Digits | | https://www.hackerrank.com/challenges/find-digits/problem |
+| 23-3 | Cut the sticks   | js(node) | https://www.hackerrank.com/challenges/cut-the-sticks/problem |
+| 24-1 | Find Digits | C# | https://www.hackerrank.com/challenges/find-digits/problem |
 | 24-2 | Modified Kaprekar Numbers | | https://www.hackerrank.com/challenges/kaprekar-numbers/problem |
 | 24-3 | The Full Counting Sort | | https://www.hackerrank.com/challenges/countingsort4/problem |
-| 25-1 | Repeated String | | https://www.hackerrank.com/challenges/repeated-string/problem |
+| 25-1 | Repeated String | C# | https://www.hackerrank.com/challenges/repeated-string/problem |
 | 25-2 | Insertion Sort - Part 1 | | https://www.hackerrank.com/challenges/insertionsort1/problem |
 | 25-3 | Larry's Array | | https://www.hackerrank.com/challenges/larrys-array/problem |
 
