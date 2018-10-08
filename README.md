@@ -82,6 +82,11 @@
 | 25-1 | Repeated String | C# | https://www.hackerrank.com/challenges/repeated-string/problem |
 | 25-2 | Insertion Sort - Part 1 | | https://www.hackerrank.com/challenges/insertionsort1/problem |
 | 25-3 | Larry's Array | | https://www.hackerrank.com/challenges/larrys-array/problem |
+| 26-1 | Taum and B'day | | https://www.hackerrank.com/challenges/taum-and-bday/problem |
+| 26-2 | Flatland Space Stations | | https://www.hackerrank.com/challenges/flatland-space-stations/problem |
+| 27-1 | Count Luck	| | https://www.hackerrank.com/challenges/count-luck/problem |
+| 28-1 | Equalize the array	| | https://www.hackerrank.com/challenges/equality-in-a-array/problem |
+| 28-2 | Happy Ladybugs		| | https://www.hackerrank.com/challenges/happy-ladybugs/problem |
 
 
 
