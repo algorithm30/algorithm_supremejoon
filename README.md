@@ -86,7 +86,9 @@
 | 26-2 | Flatland Space Stations | | https://www.hackerrank.com/challenges/flatland-space-stations/problem |
 | 27-1 | Count Luck	| | https://www.hackerrank.com/challenges/count-luck/problem |
 | 28-1 | Equalize the array	| | https://www.hackerrank.com/challenges/equality-in-a-array/problem |
-| 28-2 | Happy Ladybugs		| | https://www.hackerrank.com/challenges/happy-ladybugs/problem |
+| 28-2 | Happy Ladybugs | | https://www.hackerrank.com/challenges/happy-ladybugs/problem |
+| 29-1 | ACM ICPC Team | | https://www.hackerrank.com/challenges/acm-icpc-team/problem |
+| 29-2 | Birthday Chocolate	| | https://www.hackerrank.com/challenges/the-birthday-bar/problem |
 
 
 
