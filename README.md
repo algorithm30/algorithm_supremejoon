@@ -89,6 +89,8 @@
 | 28-2 | Happy Ladybugs | | https://www.hackerrank.com/challenges/happy-ladybugs/problem |
 | 29-1 | ACM ICPC Team | | https://www.hackerrank.com/challenges/acm-icpc-team/problem |
 | 29-2 | Birthday Chocolate	| | https://www.hackerrank.com/challenges/the-birthday-bar/problem |
+| 30-1 | Max Min | | https://www.hackerrank.com/challenges/angry-children/problem |
+| 30-2 | Halloween Sale	| | https://www.hackerrank.com/challenges/halloween-sale/problem |
 
 
 
