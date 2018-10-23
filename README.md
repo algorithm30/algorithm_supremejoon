@@ -91,6 +91,8 @@
 | 29-2 | Birthday Chocolate	| | https://www.hackerrank.com/challenges/the-birthday-bar/problem |
 | 30-1 | Max Min | | https://www.hackerrank.com/challenges/angry-children/problem |
 | 30-2 | Halloween Sale	| | https://www.hackerrank.com/challenges/halloween-sale/problem |
+| 31-1 | Sparse Arrays | | https://www.hackerrank.com/challenges/sparse-arrays/problem |
+| 31-2 | Fair Rations	| | https://www.hackerrank.com/challenges/fair-rations/problem |
 
 
 
