@@ -93,6 +93,7 @@
 | 30-2 | Halloween Sale	| | https://www.hackerrank.com/challenges/halloween-sale/problem |
 | 31-1 | Sparse Arrays | | https://www.hackerrank.com/challenges/sparse-arrays/problem |
 | 31-2 | Fair Rations	| | https://www.hackerrank.com/challenges/fair-rations/problem |
+| 32-1 | Gemstones | | https://www.hackerrank.com/challenges/gem-stones/problem |
 
 
 
