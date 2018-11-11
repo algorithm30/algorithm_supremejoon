@@ -73,27 +73,27 @@
 | 22-1 | Viral Advertising   | java8 | https://www.hackerrank.com/challenges/strange-advertising/problem |
 | 22-2 | Absolute Permutation   | | https://www.hackerrank.com/challenges/absolute-permutation/problem |
 | 22-3 | CamelCase   | js(node) | https://www.hackerrank.com/challenges/camelcase/problem |
-| 23-1 | Sherlock and Squares   | | https://www.hackerrank.com/challenges/sherlock-and-squares/problem |
-| 23-2 | Non-Divisible Subset   | | https://www.hackerrank.com/challenges/non-divisible-subset/problem |
-| 23-3 | Cut the sticks   | js(node) | https://www.hackerrank.com/challenges/cut-the-sticks/problem |
+| 23-1 | Sherlock and Squares | | https://www.hackerrank.com/challenges/sherlock-and-squares/problem |
+| 23-2 | Non-Divisible Subset | | https://www.hackerrank.com/challenges/non-divisible-subset/problem |
+| 23-3 | Cut the sticks | js(node) | https://www.hackerrank.com/challenges/cut-the-sticks/problem |
 | 24-1 | Find Digits | C# | https://www.hackerrank.com/challenges/find-digits/problem |
 | 24-2 | Modified Kaprekar Numbers | | https://www.hackerrank.com/challenges/kaprekar-numbers/problem |
 | 24-3 | The Full Counting Sort | | https://www.hackerrank.com/challenges/countingsort4/problem |
 | 25-1 | Repeated String | C# | https://www.hackerrank.com/challenges/repeated-string/problem |
-| 25-2 | Insertion Sort - Part 1 | | https://www.hackerrank.com/challenges/insertionsort1/problem |
-| 25-3 | Larry's Array | | https://www.hackerrank.com/challenges/larrys-array/problem |
-| 26-1 | Taum and B'day | | https://www.hackerrank.com/challenges/taum-and-bday/problem |
-| 26-2 | Flatland Space Stations | | https://www.hackerrank.com/challenges/flatland-space-stations/problem |
+| 25-2 | Insertion Sort - Part 1 | C# | https://www.hackerrank.com/challenges/insertionsort1/problem |
+| 25-3 | Larry's Array | C# | https://www.hackerrank.com/challenges/larrys-array/problem |
+| 26-1 | Taum and B'day | C# | https://www.hackerrank.com/challenges/taum-and-bday/problem |
+| 26-2 | Flatland Space Stations | C# | https://www.hackerrank.com/challenges/flatland-space-stations/problem |
 | 27-1 | Count Luck	| | https://www.hackerrank.com/challenges/count-luck/problem |
-| 28-1 | Equalize the array	| | https://www.hackerrank.com/challenges/equality-in-a-array/problem |
+| 28-1 | Equalize the array	| C# | https://www.hackerrank.com/challenges/equality-in-a-array/problem |
 | 28-2 | Happy Ladybugs | | https://www.hackerrank.com/challenges/happy-ladybugs/problem |
-| 29-1 | ACM ICPC Team | | https://www.hackerrank.com/challenges/acm-icpc-team/problem |
-| 29-2 | Birthday Chocolate	| | https://www.hackerrank.com/challenges/the-birthday-bar/problem |
-| 30-1 | Max Min | | https://www.hackerrank.com/challenges/angry-children/problem |
-| 30-2 | Halloween Sale	| | https://www.hackerrank.com/challenges/halloween-sale/problem |
-| 31-1 | Sparse Arrays | | https://www.hackerrank.com/challenges/sparse-arrays/problem |
-| 31-2 | Fair Rations	| | https://www.hackerrank.com/challenges/fair-rations/problem |
-| 32-1 | Gemstones | | https://www.hackerrank.com/challenges/gem-stones/problem |
+| 29-1 | ACM ICPC Team | C# | https://www.hackerrank.com/challenges/acm-icpc-team/problem |
+| 29-2 | Birthday Chocolate	| C# | https://www.hackerrank.com/challenges/the-birthday-bar/problem |
+| 30-1 | Max Min | C# | https://www.hackerrank.com/challenges/angry-children/problem |
+| 30-2 | Halloween Sale	| C# | https://www.hackerrank.com/challenges/halloween-sale/problem |
+| 31-1 | Sparse Arrays | C# | https://www.hackerrank.com/challenges/sparse-arrays/problem |
+| 31-2 | Fair Rations	| C# | https://www.hackerrank.com/challenges/fair-rations/problem |
+| 32-1 | Gemstones | C# | https://www.hackerrank.com/challenges/gem-stones/problem |
 
 
 
