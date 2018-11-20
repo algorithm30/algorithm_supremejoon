@@ -94,6 +94,9 @@
 | 31-1 | Sparse Arrays | C# | https://www.hackerrank.com/challenges/sparse-arrays/problem |
 | 31-2 | Fair Rations	| C# | https://www.hackerrank.com/challenges/fair-rations/problem |
 | 32-1 | Gemstones | C# | https://www.hackerrank.com/challenges/gem-stones/problem |
+| 33-1 | Sequence Equation |  | https://www.hackerrank.com/challenges/permutation-equation/problem |
+| 33-2 | Hackerland Radio Transmitters |  | https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem |
+| 34-1 | Pangrams |  | https://www.hackerrank.com/challenges/pangrams/problem |
 
 
 
