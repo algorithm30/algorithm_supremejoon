@@ -97,6 +97,10 @@
 | 33-1 | Sequence Equation | C# | https://www.hackerrank.com/challenges/permutation-equation/problem |
 | 33-2 | Hackerland Radio Transmitters | C# | https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem |
 | 34-1 | Pangrams | C# | https://www.hackerrank.com/challenges/pangrams/problem |
+| 35-1 | Powers Game |  | https://www.hackerrank.com/challenges/powers-game-1/problem |
+| 35-2 | Two Characters |  | https://www.hackerrank.com/challenges/two-characters/problem |
+
+
 
 
 
