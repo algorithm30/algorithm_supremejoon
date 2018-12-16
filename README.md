@@ -97,9 +97,11 @@
 | 33-2 | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | C# | 
 | 34-1 | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | C# | 
 | 35-1 | [Powers Game](https://www.hackerrank.com/challenges/powers-game-1/problem) |  | 
-| 35-2 | [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) |  | 
-| 36-1 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) |  | 
+| 35-2 | [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | python3 | 
+| 36-1 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | python3 | 
 | 36-2 | [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) |  | 
+| 37-1 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) |  | 
+| 37-2 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | python3 | 
 
 
 
