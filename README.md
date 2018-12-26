@@ -102,6 +102,10 @@
 | 36-2 | [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) |  | 
 | 37-1 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) |  | 
 | 37-2 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | python3 | 
+| 38-1 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) |  | 
+| 38-2 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) |  | 
+| 39-1 | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) |  | 
+| 39-2 | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) |  | 
 
 
 
