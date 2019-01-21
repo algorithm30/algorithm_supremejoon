@@ -106,6 +106,12 @@
 | 38-2 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) |  | 
 | 39-1 | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) |  | 
 | 39-2 | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) |  | 
+| 40-1 | [Clique](https://www.hackerrank.com/challenges/clique/problem) |  | 
+| 40-2 | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) |  | 
+| 41-1 | [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) |  | 
+| 41-2 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |  | 
+| 42-1 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) |  | 
+| 42-1 | [Snakes and Ladders: The Quickest way up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) |  | 
 
 
 
