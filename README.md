@@ -111,7 +111,7 @@
 | 41-1 | [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) |  | 
 | 41-2 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |  | 
 | 42-1 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) |  | 
-| 42-1 | [Snakes and Ladders: The Quickest way up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) |  | 
+| 42-2 | [Snakes and Ladders: The Quickest way up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) |  | 
 
 
 
