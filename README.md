@@ -112,8 +112,9 @@
 | 41-2 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |  | 
 | 42-1 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) |  | 
 | 42-2 | [Snakes and Ladders: The Quickest way up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) |  | 
-
-
-
+| 43-1 | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem) |  | 
+| 43-2 | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem) |  | 
+| 44-1 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) |  | 
+| 44-2 | [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) |  | 
 
 
