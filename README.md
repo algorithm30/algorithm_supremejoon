@@ -102,19 +102,19 @@
 | 36-2 | [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) |  | 
 | 37-1 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) |  | 
 | 37-2 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | python3 | 
-| 38-1 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) |  | 
+| 38-1 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | python3  | 
 | 38-2 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) |  | 
-| 39-1 | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) |  | 
-| 39-2 | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) |  | 
+| 39-1 | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) | python3  | 
+| 39-2 | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) | python3  | 
 | 40-1 | [Clique](https://www.hackerrank.com/challenges/clique/problem) |  | 
-| 40-2 | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) |  | 
+| 40-2 | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | python3  | 
 | 41-1 | [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) |  | 
 | 41-2 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |  | 
-| 42-1 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) |  | 
+| 42-1 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | js | 
 | 42-2 | [Snakes and Ladders: The Quickest way up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) |  | 
 | 43-1 | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem) |  | 
 | 43-2 | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem) |  | 
-| 44-1 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) |  | 
-| 44-2 | [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) |  | 
+| 44-1 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) |  js | 
+| 44-2 | [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | java8 | 
 
 
